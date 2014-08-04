@@ -1,5 +1,5 @@
 {
-    "name": "pimcore/example-areabrick",
+    "name": "pimcore/example",
     "type": "pimcore-areabrick",
     "license": "BSD-3-Clause",
 	"description": "An example area brick",
@@ -14,6 +14,6 @@
         }
     ],
 	"require": {
-        "pimcore/installer-areabrick": "@dev"
+        "pimcore/installer-areabrick": ">=1"
     }
 }
